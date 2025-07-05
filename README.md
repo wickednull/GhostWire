@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6e94766f-d7fa-42f1-970b-4be43ef686e2)
 
 # GhostWire
-GhostWire is a cyber-punk-themed, one-file Python 3 toolkit that blends wireless auditing with LAN control
+GhostWire is a one-file Python 3 toolkit that blends wireless auditing with LAN control
 
 ```bash
 git clone https://github.com/wickednull/ghostwire
