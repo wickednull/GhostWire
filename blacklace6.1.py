@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-# BlackLace v6.1 (Complete)
-# Original concept by Null_Lyfe, refactored and extended.
-# This version includes a Metasploit search function.
+# BlackLace v6.1 (created by. Null_Lyfe)
 # DISCLAIMER: For educational and authorized security testing only.
 # Unauthorized use is illegal. Always have explicit, written permission.
 
@@ -236,7 +234,7 @@ def main():
     check_root()
     check_dependencies([
         'nmap', 'gobuster', 'sqlmap', 'wpscan', 'hcxdumptool', 'aireplay-ng',
-        'ettercap', 'searchsploit', 'msfconsole', 'john', 'logkeys', 'fswebcam',
+        'ettercap', 'searchsploit', 'msfconsole', 'john', 'fswebcam',
         'bettercap', 'gnuradio-companion', 'curl', 'chmod', 'nc'
     ])
     setup_directories()
